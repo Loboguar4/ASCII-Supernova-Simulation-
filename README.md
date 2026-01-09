@@ -87,5 +87,5 @@ Este projeto está licenciado sob a MIT License. Consulte o arquivo `LICENSE` pa
 ---
 
 ## Autoria
-Desenvolvido por Ferunand Rez (Bandeirinha) — 2026  
+Desenvolvido por Bandeirinha — 2026  
 Projeto educacional e aberto. Feito para inspirar curiosidade científica e criatividade computacional.
