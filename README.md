@@ -5,7 +5,7 @@ Este projeto simula, diretamente no terminal, a explosão de uma estrela em **su
 A animação apresenta expansão esférica, ejeção de partículas, dissipação gradual de matéria estelar e formação de um **remanescente compacto**, representando uma estrela de nêutrons.
 
 <p align="center">
-  <img src="images/supernova.png" alt="Renderização ASCII de uma supernova no terminal: pontos verdes formando expansão esférica e um remanescente central" width="800"/>
+  <img src="supernova.png" alt="Renderização ASCII de uma supernova no terminal: pontos verdes formando expansão esférica e um remanescente central" width="800"/>
 </p>
 
 O projeto combina ciência, programação de baixo nível e arte computacional, oferecendo uma experiência visualmente impactante e didática.
