@@ -1,5 +1,5 @@
 /**
- * ASCII Supernova Simulation
+ * ASCII Supernova
  * Simulação ASCII de uma Supernova de Colapso de Núcleo (Tipo II)
  *
  * Descrição:
